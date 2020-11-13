@@ -1,6 +1,6 @@
 # Coolguy_advan_extension
 
-Coolguy advanced extension for Makecode.
+Coolguy-advanced-extension for Makecode.
 
 ## Feature
 
@@ -14,21 +14,27 @@ Coolguy advanced extension for Makecode.
 
 http://www.coolguyrobot.com/down/Microbit%E6%89%A9%E5%B1%95%E6%9D%BF%E5%8F%8AMakecode%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.pd
 
-# Hardware Preview
+## Hardware Preview
 
 ![Product](https://user-images.githubusercontent.com/45141802/98237469-e3f9eb80-1f9f-11eb-971e-f29950cf5374.png)
 
 ![back view](https://user-images.githubusercontent.com/45141802/98237479-ea886300-1f9f-11eb-9b50-ffff7823ad7e.jpg)
 
-# Blocks Preview
+## Blocks Preview
 
-## Motor Blocks
+### Motor Blocks
 
 ![advance_1]()
 
 ![advance_2]()
 
-![advance_3]()
+
+
+### Mulit-channel Voice Recorder
+
+Multi-channel voice recorder can record and play sounds in channels 1-6 respectively. An example is as follows, record and play the voice on channel 1, and the duration is set by `pasue`.
+
+![advance_3](https://user-images.githubusercontent.com/45141802/99064551-111e4d80-25e1-11eb-859f-0d6eacccfd46.png)
 
 ## License
 
