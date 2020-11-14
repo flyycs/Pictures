@@ -22,13 +22,25 @@ http://www.coolguyrobot.com/down/Microbit%E6%89%A9%E5%B1%95%E6%9D%BF%E5%8F%8AMak
 
 ## Blocks Preview
 
-### Motor Blocks
-
-![advance_1]()
-
-![advance_2]()
 
 
+### Camera
+
+The camera can detect faces, specific cards, moving objects, as well as recognize faces saved in advance. The sample for the camera to detect the card and display the result is shown below.
+
+![advance_camera](https://user-images.githubusercontent.com/45141802/99145696-db926680-26ab-11eb-8608-8bf12fca5a17.png)
+
+### WIFI
+
+
+
+![advance_WIFI]()
+
+### AI
+
+
+
+![advance_AI]()
 
 ### Mulit-channel Voice Recorder
 
