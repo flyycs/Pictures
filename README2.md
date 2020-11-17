@@ -24,8 +24,6 @@ http://www.coolguyrobot.com/down/Microbit%E6%89%A9%E5%B1%95%E6%9D%BF%E5%8F%8AMak
 
 ## Blocks Preview
 
-
-
 ### Camera
 
 The camera can detect faces, specific cards, moving objects, as well as recognize faces saved in advance. The sample for the camera to detect the card and display the result is shown below.
@@ -34,17 +32,17 @@ The camera can detect faces, specific cards, moving objects, as well as recogniz
 
 ### WIFI
 
+Same as other blocks, when using the WIFI module, you need to select the connected interface and set the account password (just the first time you use it), and then you can read the string from the cloud service or read it from the cloud service.
 
-
-![advance_WIFI]()
+![advance_WIFI](https://user-images.githubusercontent.com/45141802/99383152-70919b80-2908-11eb-92c0-88aaa626a1df.png)
 
 ### AI
 
+The internet is necessary when AI module works. The working mode should be set after initialization (as shown below). The AI module supports voice dialogue, voice recognition and voice conversion.
 
+![advance_AI](https://user-images.githubusercontent.com/45141802/99383166-738c8c00-2908-11eb-945e-84d980b6e205.png)
 
-![advance_AI]()
-
-### Mulit-channel Voice Recorder
+### Multi-channel Voice Recorder
 
 Multi-channel voice recorder can record and play sounds in channels 1-6 respectively. An example is as follows, record and play the voice on channel 1, and the duration is set by `pasue`.
 
